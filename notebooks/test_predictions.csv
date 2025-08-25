@@ -1,0 +1,672 @@
+Image_Path,True_Label,Predicted_Label
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14168.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11084.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15610.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10402.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10244.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15085.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16812.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13649.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11398.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15997.png,2,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14454.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14570.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/17006.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14720.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12108.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/16996.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15668.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15512.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11820.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14903.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15666.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12082.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16157.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15637.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13122.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15430.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14179.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11709.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14906.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13216.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12299.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16430.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14291.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10213.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11742.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11184.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12850.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10819.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14141.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12119.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11274.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12467.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10333.png,0,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10485.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13721.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15808.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14524.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14585.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16903.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16073.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/11662.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14307.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/17032.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11835.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11092.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10396.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15338.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15127.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15587.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14571.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16825.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10555.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16596.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10564.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12694.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15895.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12321.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15385.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16269.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14998.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15909.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11900.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14478.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11031.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16161.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12362.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16139.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14068.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13640.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13975.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14213.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15938.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15720.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12327.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10225.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11001.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10224.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15871.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10559.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13562.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15966.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10250.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14914.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14527.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14421.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12485.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14082.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16578.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16099.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11332.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14522.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10547.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14880.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10130.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11885.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15804.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12238.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14370.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10615.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11303.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15332.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10155.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12487.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13495.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13165.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11103.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12244.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14889.png,2,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12493.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12531.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14103.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15033.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14411.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13782.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12028.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15438.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14069.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11020.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10990.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14389.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13243.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12245.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10016.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10536.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14831.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16765.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14640.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10972.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10300.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13882.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15628.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15800.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15955.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14937.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12499.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11856.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15985.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11023.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10005.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13723.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15330.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16621.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16440.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11429.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14698.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14394.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14623.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/11636.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14556.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11853.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14224.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13813.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14274.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10058.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14164.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14361.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15689.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13853.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/11193.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/16080.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13109.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16435.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15696.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15809.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12999.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12771.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14870.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16639.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14575.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14243.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10616.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15791.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15621.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12819.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16524.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10274.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16543.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11654.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15368.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13598.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10312.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11865.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/16474.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13947.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12676.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10392.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11706.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13742.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12976.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10331.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16302.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10895.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11916.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15510.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14162.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12880.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15295.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16295.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11017.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14580.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12555.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14147.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13233.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13110.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15150.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12134.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13712.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12110.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13367.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13565.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10116.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/16131.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15584.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11760.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16025.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15544.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15962.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13163.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14144.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13033.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13626.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14809.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15372.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12637.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14812.png,1,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13296.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16383.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11392.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14543.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11494.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14891.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11559.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14100.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15589.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10152.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12871.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15358.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11719.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11871.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14780.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13040.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13291.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14933.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11697.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14340.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10962.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14019.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15951.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13035.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10057.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16525.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15283.png,1,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10237.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11777.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12265.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11519.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16905.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12111.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14871.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14427.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15939.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11955.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11211.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16489.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12331.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12716.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12707.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16196.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10915.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10720.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14607.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10505.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13867.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13074.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16555.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12246.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14052.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15673.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11481.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12673.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16152.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11334.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14235.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14912.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12453.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10694.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15813.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13390.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13141.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11470.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13682.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10619.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16301.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12389.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10466.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13349.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14337.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11585.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11503.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13190.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13779.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14673.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16023.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13760.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13344.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16061.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13936.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12411.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14463.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11430.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11928.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13789.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11857.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15266.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10158.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11402.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12251.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11480.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16999.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10094.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16392.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10833.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14094.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12279.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16758.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13529.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13943.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14456.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14196.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10995.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10040.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10977.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16443.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12668.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12378.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14887.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13373.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15198.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13480.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14022.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14497.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14653.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12200.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15991.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13933.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14405.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13147.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12974.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15123.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15517.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14751.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13607.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16185.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14123.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15741.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14426.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11712.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13610.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11502.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16009.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16160.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12091.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15268.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14829.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16140.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12750.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11507.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14163.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15645.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15307.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/17010.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15101.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14188.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16260.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14382.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10441.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14008.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10487.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13520.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15367.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11700.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10188.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12691.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10887.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13449.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10942.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10642.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10673.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14557.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10109.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10297.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12191.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10341.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15602.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16858.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13536.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14057.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12878.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12006.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10236.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15196.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10303.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10074.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12922.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12126.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13438.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14934.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11618.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16883.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13819.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15280.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14850.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14736.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12911.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16071.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10183.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10111.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10454.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15501.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10476.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10732.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14480.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11247.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11311.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13722.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16222.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10353.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10832.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16134.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12294.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14150.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12860.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11460.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15434.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14739.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14195.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15035.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15108.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15958.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/16124.png,2,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14473.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16056.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13099.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15370.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11138.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16683.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10063.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15282.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11419.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13170.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10948.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13799.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11852.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12885.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13096.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10187.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10546.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12002.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12088.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15652.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16402.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12461.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12083.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14848.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13922.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15191.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15215.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14112.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14608.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14284.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10112.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13773.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15759.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10383.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/14796.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12429.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15240.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12171.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16504.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10404.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16136.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14924.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15070.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10612.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13909.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16070.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14499.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/11879.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16417.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10561.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15331.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10618.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13701.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11673.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13754.png,1,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12398.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10419.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/11930.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12727.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15010.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14187.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12435.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11253.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13346.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13486.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16467.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16442.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14263.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13440.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15841.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14178.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12372.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12804.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15514.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10578.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14977.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13572.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16319.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16285.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13469.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14974.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13885.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16206.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13422.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16614.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13973.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12129.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13643.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16289.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10501.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13358.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10262.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15281.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10724.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14250.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14760.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16675.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14083.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12178.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10608.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12626.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13237.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15333.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10314.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12345.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10309.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14028.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13845.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16208.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15112.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15416.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13802.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15733.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/15807.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13890.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12905.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11071.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/16968.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16938.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14897.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10971.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13818.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14684.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14013.png,2,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16168.png,1,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10586.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14404.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10882.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15340.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12363.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12034.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14184.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15534.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11806.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14959.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11207.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12994.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13426.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/16450.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12458.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13380.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11577.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12899.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11532.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15449.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13094.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16855.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11307.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12457.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12854.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/10568.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16028.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13684.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12211.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13898.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12391.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12672.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13815.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/16892.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13149.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11110.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14553.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10343.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15348.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13762.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16919.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12295.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/11179.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12272.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10610.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14961.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/11720.png,2,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16340.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14756.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15768.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11807.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10511.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11564.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10574.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15355.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12812.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10809.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12737.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11198.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16036.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16112.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12690.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12806.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10897.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/14725.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16657.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13448.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13659.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10847.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/17026.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/12583.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/10113.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/11028.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13810.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15853.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12551.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12289.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12322.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13596.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11877.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16102.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14443.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/11130.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/12413.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10709.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/16477.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15692.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/15849.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/14149.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/Kanama/PNG/13806.png,2,2
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/13406.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12562.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/13161.png,1,1
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/12491.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İnme Yok/10550.png,0,0
+/Users/jiayihuang/.cache/kagglehub/datasets/orvile/inme-veri-seti-stroke-dataset/versions/1/İNME VERİ SETİ/İskemi/PNG/15486.png,1,1
