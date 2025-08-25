@@ -17,12 +17,14 @@ The model was trained with a stratified train/validation/test split and evaluate
 ---
 
 ## 🏗️ Project Structure  
-├── data/ # Dataset (images & labels)
-├── data/dataset.py # Custom StrokeDataset class
-├── ConvNeXt_v1.ipynb # Main notebook (training, evaluation, results)
-├── best_model.pth # Saved best model (by F1 score)
-├── test_predictions.csv # Predictions on the test set
-└── README.md # Project documentation
+
+- `data/` — dataset (images & labels)  
+  - `dataset.py` — custom `StrokeDataset` class  
+- `ConvNeXt_v1.ipynb` — main notebook (training, evaluation, results)  
+- `best_model.pth` — saved model (best validation F1 score)  
+- `test_predictions.csv` — predictions on the test set  
+- `README.md` — project documentation  
+
 
 ## 🔬 Methodology  
 
