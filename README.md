@@ -62,6 +62,22 @@ A personal project driven by my interest in applying computer vision to medical 
 
 ---
 
+## Sample CT Scans
+
+**Absent** (no stroke):
+
+![Absent Samples](assets/sample_images.png)
+
+**Ischemic** stroke:
+
+![Ischemic Samples](assets/sample_images_1.png)
+
+**Hemorrhagic** stroke:
+
+![Hemorrhagic Samples](assets/sample_images_2.png)
+
+---
+
 ## Results
 
 Evaluated on a held-out test set (671 images):
@@ -73,6 +89,14 @@ Evaluated on a held-out test set (671 images):
 | **Recall** | 95.3% |
 | **F1 Score** | 96.6% |
 | **F1 95% CI** | 94.9% – 98.1% |
+
+**Training & validation loss** and **validation F1 score** across 50 epochs:
+
+![Loss and F1 Curves](assets/loss_and_metrics.png)
+
+**Confusion matrix** on the test set — near-perfect separation across all three classes:
+
+![Confusion Matrix](assets/loss_and_metrics_1.png)
 
 ---
 
