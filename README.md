@@ -1,65 +1,72 @@
-# 🧠 ConvNeXt Stroke Classification  
+# Stroke Classification from CT Scans
 
-Fine-tuning a ConvNeXt model for medical image classification (stroke detection with 3 categories: **absent, ischemic, hemorrhagic**).  
+A deep learning model for classifying brain CT scans into three categories — **absent**, **ischemic**, and **hemorrhagic** stroke — using a fine-tuned ConvNeXt-Base architecture.
 
----
+## Motivation
 
-## 📖 Overview  
-This project uses **ConvNeXt-Base** from the [timm](https://github.com/huggingface/pytorch-image-models) library, pretrained on ImageNet, and fine-tunes it for a 3-class stroke dataset.  
+This was a personal project driven by my interest in applying computer vision to medical imaging. I wanted to explore how well modern image classification models could perform on a clinically relevant problem — distinguishing stroke types from CT scans — and learn about the challenges of working with medical data.
 
-The dataset contains three categories:  
-- 0 – Absent stroke  
-- 1 – Ischemic stroke  
-- 2 – Hemorrhagic stroke  
+## Results
 
-The model was trained with a stratified train/validation/test split and evaluated on accuracy, precision, recall, and F1 score.  
+Evaluated on a held-out test set (671 images):
 
----
+| Metric    | Score  |
+|-----------|--------|
+| Accuracy  | 97.3%  |
+| Precision | 98.0%  |
+| Recall    | 95.3%  |
+| F1 Score  | 96.6%  |
+| F1 95% CI | 94.9% – 98.1% |
 
-## 🏗️ Project Structure  
+## Approach
 
-- `data/` — dataset (images & labels)  
-  - `dataset.py` — custom `StrokeDataset` class  
-- `ConvNeXt_v1.ipynb` — main notebook (training, evaluation, results)  
-- `best_model.pth` — saved model (best validation F1 score)  
-- `test_predictions.csv` — predictions on the test set  
-- `README.md` — project documentation  
+### Dataset
 
+- **Source**: [Kaggle stroke CT scan dataset](https://www.kaggle.com/) (6,774 images)
+- **Classes**: Absent (4,551), Ischemic (1,130), Hemorrhagic (1,093)
+- **Split**: 70% train / 20% validation / 10% test (stratified)
 
-## 🔬 Methodology  
+### Model
 
-1. **Data Preparation**  
-   - Train/val/test split (70/20/10).  
-   - Data augmentation with Albumentations (resizing, normalization, flips, etc.).  
+- **Architecture**: ConvNeXt-Base (pretrained on ImageNet, via [timm](https://github.com/huggingface/pytorch-image-models))
+- **Classifier head** replaced for 3-class output
 
-2. **Model Setup**  
-   - Pretrained `convnext_base`.  
-   - Final classifier adjusted to 3 output classes.
+### Training
 
-3. **Training**  
-   - Optimizer: AdamW (`lr=1e-4`, `weight_decay=1e-5`).  
-   - Scheduler: ReduceLROnPlateau (patience=5).  
-   - Loss: CrossEntropyLoss.  
-   - Mixed-precision training with `torch.amp`.  
-   - Best model saved according to validation F1 score.  
+- AdamW optimizer (lr=1e-4, weight_decay=1e-5)
+- ReduceLROnPlateau scheduler (patience=5, factor=0.5)
+- Mixed-precision training with `torch.amp`
+- Best model checkpoint saved by validation F1 score
+- 50 epochs
 
-4. **Evaluation Metrics**  
-   - Accuracy  
-   - Precision  
-   - Recall  
-   - F1 Score (macro)  
+### Data Augmentation
 
----
+Applied via [Albumentations](https://albumentations.ai/):
+- Horizontal/vertical flips, rotation
+- Elastic, grid, and optical distortion
+- Brightness/contrast adjustment
+- Gaussian noise, CoarseDropout
 
-## 📊 Results  
+## Project Structure
 
-| Metric        | Value |
-|---------------|-------|
-| Test Accuracy | 99.5% |
-| Test Precision| 99.6% |
-| Test Recall   | 99.4% |
-| Test F1 Score | 99.5% |
+```
+├── data/
+│   └── dataset.py          # Custom PyTorch Dataset class
+├── notebooks/
+│   ├── ConvNeXt_v1.ipynb    # Training and evaluation notebook
+│   └── test_predictions.csv # Test set predictions
+├── requirements.txt
+└── README.md
+```
 
-Predictions are stored in `test_predictions.csv` with image paths, true labels, and predicted labels.  
+## Tech Stack
 
----
+Python, PyTorch, timm, Albumentations, OpenCV, scikit-learn, pandas, matplotlib, seaborn
+
+## Getting Started
+
+```bash
+pip install -r requirements.txt
+```
+
+Open `notebooks/ConvNeXt_v1.ipynb` to run training and evaluation. The dataset is downloaded automatically from Kaggle via `kagglehub`.
